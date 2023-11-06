@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Mooli&display=swap');
+
+button{
+    display: inline-block;
+    background-color: red;
+}
+.navbar-toggler{
+    background-color: darkorange;
+}
+.navbar-toggler:hover{
+    background-color: darkslategray;
+    color: white;
+    filter: brightness(120%);
+    box-shadow: 10px 10px 10px orange;
+}
+.btn-join{
+    background-color: lightgreen;
+}
+.btn-join:hover{
+    background-color: darkslategray;
+    color: white;
+    filter: brightness(120%);
+    box-shadow: 10px 10px 10px orange;
+}
+.name-flower h1{
+    display: inline-block;
+}
+.navbar{
+    background-color: #74C365;
+}
+.page-wrapper{
+    background-color: #A0AAB2;
+    color: #2E3532;
+}
+.featured-card{
+    width: 50%;
+    background-color: bisque;
+    border-radius: 0.5%;
+}
+.modal-content{
+    width: 800px;
+    background-color: #A0AAB2;
+}
+hr{
+    width: 750px;
+}
+.all-products-btn{
+    width: 25%;
+    height: 15%;
+}
+.middle-card-group{
+    background-color: #C7CEDB;
+}
+.carousel-pic{
+    border:2px solid #fff;
+    box-shadow: 10px 10px 5px #ccc;
+    -moz-box-shadow: 10px 10px 5px #ccc;
+    -webkit-box-shadow: 10px 10px 5px #ccc;
+    -khtml-box-shadow: 10px 10px 5px #ccc;
+}
+.shadow-sm {
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+footer{
+    padding: 0;
+    margin: 0;
+}
+/*.top-box{*/
+/*    background-image: url("/img/pexels-kindel-media-7667099 (360p).mp4");*/
+
+/*}*/
+/*video {*/
+/*    position: absolute;*/
+/*    top: 0;*/
+/*    left: 0;*/
+/*    object-fit: cover;*/
+/*    height: 100%;*/
+/*    width: 100%;*/
+/*}*/
+/*.video-wrapper {*/
+/*    !* Telling our absolute positioned video to*/
+/*    be relative to this element *!*/
+/*    position: relative;*/
+
+/*    width: 400px;*/
+/*    height: 200px;*/
+
+/*    !* Will not allow the video to overflow the*/
+/*    container *!*/
+/*    overflow: hidden;*/
+
+/*    !* Centering the container's content vertically*/
+/*    and horizontally *!*/
+/*    text-align: center;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*}*/
+video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    object-fit: contain;
+    zoom: 1;
+}
+.video-wrapper {
+    border: 2px solid #000;
+    width: 1440px;
+    height: 500px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.middle-row{
+    text-align: center;
+}
+h2{
+    font-size: 48px;
+    font-family: "Black Ops One";
+}
+h1{
+    font-size: 48px;
+    font-family: "Black Ops One";
+}
+.btn-primary{
+    background-color: lightgreen;
+    color: black;
+    text-align: center;
+}
+.btn-primary:hover{
+    background-color: darkslategray;
+}
+.all-products-btn{
+    background-color: lightgreen;
+    color: black;
+    text-align: center;
+}
+.all-products-btn:hover {
+    background-color: darkslategray;
+    color: white;
+    filter: brightness(120%);
+    box-shadow: 10px 10px 10px orange;
+}
+
+.card {
+    float: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: solid 1px #bbb;
+    transition: all .2s;
+    font: normal 16px calibri;
+}
+.card:hover {
+    box-shadow: 10px 10px 10px orange;
+}
+.card.with-transform:hover {
+    transform: translateY(-2px);
+}
+.benefits-col {
+    background-color: #49796B;
+}
+ul{
+    width: 50%;
+}
+/*.card-carousel{*/
+/*    width: 25%;*/
+/*    !*display: flex;*!*/
+/*    !*flex-direction: row;*!*/
+/*}*/
+.cards-wrapper {
+    display: flex;
+    justify-content: center;
+}
+.card img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.card-carousel {
+    margin: 0 0.5em;
+    box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+    border: none;
+    border-radius: 0;
+    background-color: #50C878;
+    border-radius: 0.5%;
+}
+.carousel-inner {
+    padding: 1em;
+}
+.carousel-control-prev,
+.carousel-control-next {
+    background-color: #e1e1e1;
+    width: 5vh;
+    height: 5vh;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+@media (min-width: 768px) {
+    .card img {
+        height: 11em;
+    }
+}

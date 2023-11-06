@@ -1,0 +1,9 @@
+{
+  "name": "cannabis-application",
+  "version": "1.0.0",
+  "scripts": {
+    "db:edibles": "json-server -d 1200 --watch data/ediblesStrainsPreRolls.json"
+  },
+  "dependencies": {
+  }
+}

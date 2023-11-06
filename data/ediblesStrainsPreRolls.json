@@ -1,0 +1,432 @@
+{
+  "edibles": [
+    {
+      "id": 1,
+      "name": "Brownie",
+      "type": "Baked Goods",
+      "description": "Classic chocolate brownie infused with cannabis extract.",
+      "price": 9.99
+    },
+    {
+      "id": 2,
+      "name": "Gummy Bears",
+      "type": "Gummies",
+      "description": "Chewy gummy bears with a burst of fruity flavors and cannabis extract.",
+      "price": 12.99
+    },
+    {
+      "id": 3,
+      "name": "Caramel Chews",
+      "type": "Candies",
+      "description": "Soft and chewy caramel candies infused with cannabis for a sweet treat.",
+      "price": 14.99
+    },
+    {
+      "id": 4,
+      "name": "Chocolate Bar",
+      "type": "Chocolate",
+      "description": "Smooth chocolate bar with cannabis extract, perfect for chocolate lovers.",
+      "price": 11.49
+    },
+    {
+      "id": 5,
+      "name": "Lollipop",
+      "type": "Candies",
+      "description": "Colorful and flavorful lollipops infused with cannabis for a fun experience.",
+      "price": 8.99
+    },
+    {
+      "id": 6,
+      "name": "Peanut Butter Cookies",
+      "type": "Baked Goods",
+      "description": "Homemade peanut butter cookies with a hint of cannabis extract.",
+      "price": 10.99
+    },
+    {
+      "id": 7,
+      "name": "Hard Candies",
+      "type": "Candies",
+      "description": "Hard candies with various flavors and a touch of cannabis goodness.",
+      "price": 7.99
+    },
+    {
+      "id": 8,
+      "name": "Fruit Chews",
+      "type": "Candies",
+      "description": "Fruity chewy candies infused with cannabis extract for a delightful taste.",
+      "price": 13.49
+    },
+    {
+      "id": 9,
+      "name": "Macarons",
+      "type": "Baked Goods",
+      "description": "Elegant and flavorful macarons infused with cannabis for a sophisticated treat.",
+      "price": 16.99
+    },
+    {
+      "id": 10,
+      "name": "CBD Gummies",
+      "type": "Gummies",
+      "description": "Gummy candies infused with CBD for a relaxing and calming experience.",
+      "price": 18.99
+    },
+    {
+      "id": 11,
+      "name": "Truffles",
+      "type": "Chocolate",
+      "description": "Rich and creamy chocolate truffles with a cannabis twist.",
+      "price": 15.99
+    },
+    {
+      "id": 12,
+      "name": "Sugar-Free Brownie",
+      "type": "Baked Goods",
+      "description": "Diabetic-friendly chocolate brownie infused with cannabis extract.",
+      "price": 10.49
+    },
+    {
+      "id": 13,
+      "name": "Infused Honey",
+      "type": "Condiments",
+      "description": "Pure honey infused with cannabis for a unique and sweet addition to your recipes.",
+      "price": 22.99
+    },
+    {
+      "id": 14,
+      "name": "Tincture Drops",
+      "type": "Tinctures",
+      "description": "Liquid drops with cannabis extract for easy and precise dosing.",
+      "price": 25.99
+    },
+    {
+      "id": 15,
+      "name": "Chewy Taffy",
+      "type": "Candies",
+      "description": "Soft and chewy taffy candies infused with cannabis goodness.",
+      "price": 9.49
+    },
+    {
+      "id": 16,
+      "name": "Cannabis Tea",
+      "type": "Beverages",
+      "description": "Herbal tea blend infused with cannabis for a relaxing beverage.",
+      "price": 12.49
+    },
+    {
+      "id": 17,
+      "name": "Fudge",
+      "type": "Baked Goods",
+      "description": "Rich and decadent fudge infused with cannabis extract.",
+      "price": 11.99
+    },
+    {
+      "id": 18,
+      "name": "CBD Capsules",
+      "type": "Capsules",
+      "description": "Convenient capsules with CBD extract for easy consumption and relaxation.",
+      "price": 28.99
+    },
+    {
+      "id": 19,
+      "name": "Choco-Cookies",
+      "type": "Baked Goods",
+      "description": "Double-layered cookies with chocolate and cannabis extract for a delightful experience.",
+      "price": 14.99
+    },
+    {
+      "id": 20,
+      "name": "Minty Delights",
+      "type": "Candies",
+      "description": "Mint-flavored candies infused with cannabis for a refreshing taste.",
+      "price": 7.99
+    }
+    ],
+    "strains": [
+      {
+        "id": 1,
+        "name": "OG Kush",
+        "type": "Indica",
+        "description": "A popular strain known for its relaxing effects.",
+        "thcPercentage": "23%",
+        "price": "$40"
+      },
+      {
+        "id": 2,
+        "name": "Lemon Cherry Gelato",
+        "type": "Hybrid",
+        "description": "A popular strain known for its tingly, relaxing, and euphoric effects.",
+        "thcPercentage": "21%",
+        "price": "$40"
+      },
+      {
+        "id": 3,
+        "name": "Black Runtz",
+        "type": "Hybrid",
+        "description": "A popular strain known for its relaxing and arousing effects.",
+        "thcPercentage": "22%",
+        "price": "$40"
+      },
+      {
+        "id": 6,
+        "name": "Purple Haze",
+        "type": "Sativa",
+        "description": "Psychedelic strain with a sweet and earthy flavor profile.",
+        "thcPercentage": "19%",
+        "price": "$40"
+      },
+      {
+        "id": 7,
+        "name": "Granddaddy Purple",
+        "type": "Indica",
+        "description": "Calming strain with grape and berry flavors.",
+        "thcPercentage": "20%",
+        "price": "$40"
+      },
+      {
+        "id": 8,
+        "name": "AK-47",
+        "type": "Hybrid",
+        "description": "Potent hybrid strain with a skunky and earthy aroma.",
+        "thcPercentage": "18%",
+        "price": "$40"
+      },
+      {
+        "id": 9,
+        "name": "Northern Lights",
+        "type": "Indica",
+        "description": "Classic indica strain known for its relaxing effects and earthy flavor.",
+        "thcPercentage": "20%",
+        "price": "$40"
+      },
+      {
+        "id": 10,
+        "name": "Jack Herer",
+        "type": "Sativa",
+        "description": "Named after the cannabis activist, this strain offers a blissful and creative high.",
+        "thcPercentage": "22%",
+        "price": "$40"
+      },
+      {
+        "id": 11,
+        "name": "Amnesia Haze",
+        "type": "Sativa",
+        "description": "Euphoric and uplifting strain with citrusy and earthy flavors.",
+        "thcPercentage": "21%",
+        "price": "$40"
+      },
+      {
+        "id": 12,
+        "name": "Gorilla Glue #4",
+        "type": "Hybrid",
+        "description": "Heavy-hitting hybrid strain with a strong euphoric and sedative effect.",
+        "thcPercentage": "27%",
+        "price": "$40"
+      },
+      {
+        "id": 13,
+        "name": "Green Crack",
+        "type": "Sativa",
+        "description": "High-energy sativa strain with tangy and fruity flavors.",
+        "thcPercentage": "23%",
+        "price": "$40"
+      },
+      {
+        "id": 14,
+        "name": "Pineapple Express",
+        "type": "Hybrid",
+        "description": "Tropical and fruity strain with a happy and uplifting high.",
+        "thcPercentage": "22%",
+        "price": "$40"
+      },
+      {
+        "id": 15,
+        "name": "Cherry Pie",
+        "type": "Hybrid",
+        "description": "Sweet and tart strain with a relaxing and euphoric effect.",
+        "thcPercentage": "19%",
+        "price": "$40"
+      },
+      {
+        "id": 16,
+        "name": "Trainwreck",
+        "type": "Hybrid",
+        "description": "Powerful hybrid strain with spicy and earthy flavors.",
+        "thcPercentage": "20%",
+        "price": "$40"
+      },
+      {
+        "id": 17,
+        "name": "Durban Poison",
+        "type": "Sativa",
+        "description": "Pure sativa strain with a sweet and spicy aroma.",
+        "thcPercentage": "24%",
+        "price": "$40"
+      },
+      {
+        "id": 18,
+        "name": "Chemdawg",
+        "type": "Hybrid",
+        "description": "Pungent and diesel-like strain with a cerebral and relaxing effect.",
+        "thcPercentage": "26%",
+        "price": "$40"
+      },
+      {
+        "id": 19,
+        "name": "Bubba Kush",
+        "type": "Indica",
+        "description": "Indica strain with a sweet and hash-like flavor profile.",
+        "thcPercentage": "23%",
+        "price": "$40"
+      },
+      {
+        "id": 20,
+        "name": "Strawberry Cough",
+        "type": "Sativa",
+        "description": "Sweet and strawberry-flavored sativa strain with a euphoric high.",
+        "thcPercentage": "19%",
+        "price": "$40"
+      }
+      ],
+      "preRolls": [
+        {
+          "id": 1,
+          "name": "Classic Joint",
+          "type": "Indica",
+          "description": "Traditional pre-rolled joint with high-quality Indica cannabis.",
+          "price": 8.99
+        },
+        {
+          "id": 2,
+          "name": "Sativa Spliff",
+          "type": "Sativa",
+          "description": "A mix of Sativa strains in a classic spliff for an energetic experience.",
+          "price": 9.49
+        },
+        {
+          "id": 3,
+          "name": "Hybrid Twist",
+          "type": "Hybrid",
+          "description": "Pre-roll with a blend of Hybrid strains for a balanced high.",
+          "price": 10.99
+        },
+        {
+          "id": 4,
+          "name": "Exotic Infusion",
+          "type": "Hybrid",
+          "description": "Unique blend of exotic strains in a pre-roll for a special experience.",
+          "price": 12.99
+        },
+        {
+          "id": 5,
+          "name": "CBD Joint",
+          "type": "CBD",
+          "description": "Pre-roll with high CBD content for relaxation without the psychoactive effects.",
+          "price": 11.49
+        },
+        {
+          "id": 6,
+          "name": "Cherry Twist",
+          "type": "Hybrid",
+          "description": "Pre-roll infused with cherry flavor for a delightful smoking experience.",
+          "price": 10.99
+        },
+        {
+          "id": 7,
+          "name": "Citrus Surprise",
+          "type": "Sativa",
+          "description": "Pre-roll with a burst of citrus flavors to invigorate your senses.",
+          "price": 9.99
+        },
+        {
+          "id": 8,
+          "name": "Mellow Mango",
+          "type": "Indica",
+          "description": "Indica pre-roll infused with the sweetness of ripe mango.",
+          "price": 11.99
+        },
+        {
+          "id": 9,
+          "name": "Pineapple Express",
+          "type": "Sativa",
+          "description": "Pre-roll named after the famous strain, delivering a tropical experience.",
+          "price": 12.49
+        },
+        {
+          "id": 10,
+          "name": "Blueberry Bliss",
+          "type": "Indica",
+          "description": "Indica pre-roll with the rich taste of blueberries for a relaxing session.",
+          "price": 10.99
+        },
+        {
+          "id": 11,
+          "name": "Vanilla Sky",
+          "type": "Hybrid",
+          "description": "Hybrid pre-roll with a hint of vanilla for a smooth and flavorful smoke.",
+          "price": 11.49
+        },
+        {
+          "id": 12,
+          "name": "Tropical Thunder",
+          "type": "Sativa",
+          "description": "Sativa pre-roll with a tropical twist to enhance your smoking experience.",
+          "price": 10.99
+        },
+        {
+          "id": 13,
+          "name": "Strawberry Fields",
+          "type": "Hybrid",
+          "description": "Hybrid pre-roll infused with the sweetness of ripe strawberries.",
+          "price": 12.99
+        },
+        {
+          "id": 14,
+          "name": "Grape Escape",
+          "type": "Indica",
+          "description": "Indica pre-roll with a grape flavor profile for a soothing smoke.",
+          "price": 11.49
+        },
+        {
+          "id": 15,
+          "name": "Lemon Haze",
+          "type": "Sativa",
+          "description": "Sativa pre-roll with a zesty lemon aroma to uplift your mood.",
+          "price": 9.99
+        },
+        {
+          "id": 16,
+          "name": "Minty Fresh",
+          "type": "Hybrid",
+          "description": "Hybrid pre-roll infused with refreshing mint for a cool smoking experience.",
+          "price": 10.99
+        },
+        {
+          "id": 17,
+          "name": "Amaretto Dream",
+          "type": "Hybrid",
+          "description": "Hybrid pre-roll with a touch of amaretto flavor for a unique taste.",
+          "price": 12.49
+        },
+        {
+          "id": 18,
+          "name": "Cinnamon Spice",
+          "type": "Indica",
+          "description": "Indica pre-roll with the warmth of cinnamon for a cozy smoke.",
+          "price": 11.49
+        },
+        {
+          "id": 19,
+          "name": "Peach Paradise",
+          "type": "Sativa",
+          "description": "Sativa pre-roll with the sweetness of ripe peaches for a fruity session.",
+          "price": 10.99
+        },
+        {
+          "id": 20,
+          "name": "Hazelnut Heaven",
+          "type": "Hybrid",
+          "description": "Hybrid pre-roll with a hazelnut aroma to indulge your senses.",
+          "price": 11.99
+        }
+  ]
+}
